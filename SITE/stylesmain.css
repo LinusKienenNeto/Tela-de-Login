@@ -31,6 +31,7 @@
 .navbar a:hover {
     background-color: #ddd;
     color: black;
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1);
 
 } 
 
